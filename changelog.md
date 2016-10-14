@@ -13,3 +13,19 @@ Earlier there were no changelog at all and we have introduced one now and we wil
 
 * Add multilevel menu
 * Mobile comptibility enhancement
+
+### 1.2.0 - 19.05.2016
+
+* Fix menu not become active if url contains parameters
+* Fix form upload form not adjust on large number of files
+* Remove invalid css
+* Add compose message functionalities
+* Add fixed sidebar functionalities
+
+### 1.3.0 - 01.06.2016
+
+* Fix menu not become active if url contains parameters
+* Fix form upload form not adjust on large number of files
+* Remove invalid css
+* Add compose message functionalities
+* Add fixed footer functionalities
